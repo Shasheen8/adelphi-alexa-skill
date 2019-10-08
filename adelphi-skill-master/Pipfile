@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+zappa = "*"
+awscli = "*"
+pandas = "*"
+arrow = "*"
+lxml = "*"
+cssselect = "*"
+fuzzywuzzy = {extras = ["speedup"]}
+Flask-Ask = "==0.9.8"
+Flask = "*"
+Cython = "*"
+urllib3 = "==1.24"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"

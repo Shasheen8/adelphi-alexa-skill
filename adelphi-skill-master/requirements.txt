@@ -1,0 +1,12 @@
+pip==9.0.3
+flask-ask==0.9.8
+flask
+requests
+zappa
+awscli
+pandas
+arrow
+cython
+lxml
+cssselect
+fuzzywuzzy[speedup]
