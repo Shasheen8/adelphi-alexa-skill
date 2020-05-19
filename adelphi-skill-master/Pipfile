@@ -15,7 +15,7 @@ fuzzywuzzy = {extras = ["speedup"]}
 Flask-Ask = "==0.9.8"
 Flask = "*"
 Cython = "*"
-urllib3 = "==1.24"
+
 
 [dev-packages]
 
